@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SCM-EDU</string>
+    <string name="title_activity_cadastro_usuario">CadastroUsuarioActivity</string>
+    <string name="nome_grupo_obrigatorio">O nome do grupo é de preenchimento obrigatório!</string>
+    <string name="membro_grupo_obrigatorio">O nome do membro é de preenchimento obrigatório!</string>
+    <string name="permissao_grupo_obrigatorio">A permissao nome do grupo é de preenchimento obrigatório!</string>
+    <string name="nome_obrigatorio">O nome é de preenchimento obrigatório!</string>
+    <string name="usuario_obrigatorio">O usuario é de preenchimento obrigatório!</string>
+    <string name="email_obrigatorio">O email é de preenchimento obrigatório!</string>
+    <string name="senha_obrigatorio">A senha é de preenchimento obrigatório!</string>
+    <string name="usuario_autenticado_sucesso">Usuario autenticado com sucesso!</string>
+    <string name="autenticacao_falha">Usuario ou senha errada!</string>
+    <string name="registro_salvo_sucesso">Registro salvo com sucesso!</string>
+    <string name="nome_projeto_obrigatorio">O nome do projeto é de preenchimento obrigatório!</string>
+    <string name="data_projeto_obrigatorio">A data fim do projeto é de preenchimento obrigatório!</string>
+    <string name="title_activity_tela_acesso">TelaAcessoActivity</string>
+    <string name="title_activity_projeto">ProjetoActivity</string>
+    <string name="title_activity_grupo">GrupoActivity</string>
+    <string name="title_activity_grupo_acl">GrupoAclActivity</string>
+    <string name="title_activity_acessando_projeto">AcessandoProjetoActivity</string>
+</resources>

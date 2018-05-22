@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="anhanguera.scm_edu">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CadastroUsuarioActivity"
+            android:label="@string/title_activity_cadastro_usuario"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TelaAcessoActivity"
+            android:label="@string/title_activity_tela_acesso"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ProjetoActivity"
+            android:label="@string/title_activity_projeto"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GrupoAclActivity"
+            android:label="@string/title_activity_grupo_acl"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AcessandoProjetoActivity"
+            android:label="@string/title_activity_acessando_projeto"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>
